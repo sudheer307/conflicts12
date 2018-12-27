@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my name is sudheer
 
+=======
+my my my name is sudheer
+>>>>>>> 1
